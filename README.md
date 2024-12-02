@@ -32,3 +32,27 @@ WinSW offers a command-line interface for installing and managing Windows servic
 5. Start the service by executing: `bash myapp.exe start`  
 
 With its flexibility and advanced capabilities, WinSW simplifies converting executables into services, making it an efficient tool for managing custom applications on Windows platforms.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+winsw
+
+win
+
+winsw download
+
+winsw git
+
+winsw windows
+
+windows winsw app
